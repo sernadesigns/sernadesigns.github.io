@@ -1,3 +1,3 @@
-# SernaDesigns GitHub Page
+# sernadesigns.github.io
 
-Projects links will be added here as they are created.
+[Go to my GitHub Page -->](https://sernadesigns.github.io/)
