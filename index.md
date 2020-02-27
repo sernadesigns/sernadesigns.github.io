@@ -18,7 +18,7 @@ A simple robot social app in React
 
 ***
 
-## [simplefolio-ember](./simplefolio-ember/index.html)
+## [simplefolio-ember](./simplefolio-ember/)
 
 A simple portfolio app in Ember  
 Based on [simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)  
