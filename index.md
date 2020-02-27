@@ -8,11 +8,15 @@ A simple todo app in Maria
 
 [sernadesigns/checkit-todo-maria](https://github.com/sernadesigns/checkit-todo-maria)
 
+***
+
 ## [robofriends](./robofriends/index.html)
 
 A simple robot social app in React  
 
 [sernadesigns/robo-friends](https://github.com/sernadesigns/robo-friends)
+
+***
 
 ## [simplefolio-ember](./simplefolio-ember/index.html)
 
