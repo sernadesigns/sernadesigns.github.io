@@ -10,7 +10,7 @@ A simple todo app in Maria.
 
 ***
 
-## [gatsby-hello-world](./gatsby-hello-world/index.html)
+## [gatsby-hello-world](./gatsby-hello-world/)
 
 A hello world tutorial in Gatsby.
 
