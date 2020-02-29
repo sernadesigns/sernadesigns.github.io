@@ -10,6 +10,14 @@ A simple todo app in Maria.
 
 ***
 
+## [gatsby-hello-world](./gatsby-hello-world/index.html)
+
+A hello world tutorial in Gatsby.
+
+[sernadesigns/gatsby-hello-world](https://github.com/sernadesigns/gatsby-hello-world)
+
+***
+
 ## [robofriends](./robofriends/index.html)
 
 A simple robot social app in React.  
