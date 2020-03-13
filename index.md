@@ -29,6 +29,7 @@ A simple robot social app in React.
 ## [sernadesigns.com](https://sernadesigns.com)
 
 A simple portfolio site built with [simplefolio-ember](https://github.com/sernadesigns/simplefolio-ember).  
+Uses [Ember Octane](https://emberjs.com/editions/) edition.  
 
 [sernadesigns/serna-designs-ui](https://github.com/sernadesigns/serna-designs-ui)
 
@@ -38,5 +39,6 @@ A simple portfolio site built with [simplefolio-ember](https://github.com/sernad
 
 A simple portfolio app in Ember.  
 Based on [simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev).  
+Uses [Ember Octane](https://emberjs.com/editions/) edition.  
 
 [sernadesigns/simplefolio-ember](https://github.com/sernadesigns/simplefolio-ember)
