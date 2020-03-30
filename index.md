@@ -1,6 +1,14 @@
 # Projects
 
-Projects links will be added here as they are created.
+Projects links will be added here as they are created and will be listed in alphabetical order.  
+
+## [baseball game](./baseball-game/index.html)
+
+A simple single-file baseball-game in JavaScript.  
+
+[sernadesigns/baseball-game](https://github.com/sernadesigns/baseball-game)
+
+***
 
 ## [checkit](./checkit/src/index.html)
 
