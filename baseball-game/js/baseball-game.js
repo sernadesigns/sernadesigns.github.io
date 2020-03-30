@@ -84,7 +84,8 @@
 
 	function startGame() {
 		game.inning = 1;
-		runners.length = 4;
+		runners.length = 3;
+		runners.fill(undefined);
 		topInning();
 	}
 
