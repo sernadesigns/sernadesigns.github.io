@@ -4,7 +4,7 @@ Projects links will be added here as they are created and will be listed in alph
 
 ## [baseball game](./baseball-game/index.html)
 
-A simple single-file baseball-game in JavaScript.  
+A simple baseball simulation game in JavaScript, bundled with Webpack.  
 
 [sernadesigns/baseball-game](https://github.com/sernadesigns/baseball-game)
 
