@@ -18,6 +18,14 @@ A simple todo app in Maria.
 
 ***
 
+## [crown-clothing](./crown-clothing/index.html)
+
+A fake ecommerce store in React and Firebase.  
+
+[sernadesigns/crown-clothing](https://github.com/sernadesigns/crown-clothing)  
+
+***
+
 ## [gatsby-hello-world](./gatsby-hello-world/)
 
 A hello world tutorial in Gatsby.
