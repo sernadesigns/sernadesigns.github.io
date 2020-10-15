@@ -58,3 +58,12 @@ Based on [simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martin
 Uses [Ember Octane](https://emberjs.com/editions/) edition.  
 
 [sernadesigns/simplefolio-ember](https://github.com/sernadesigns/simplefolio-ember)
+
+***
+
+## [simplefolio-vue](./simplefolio-vue/)
+
+A simple portfolio app in Vue.  
+Based on [simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev).  
+
+[sernadesigns/simplefolio-vue](https://github.com/sernadesigns/simplefolio-vue)
